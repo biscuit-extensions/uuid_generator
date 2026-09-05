@@ -1,0 +1,7 @@
+[extension]
+id = "uuid_generator"
+name = "Uuid Generator"
+version = "0.1.0"
+description = "Uuid Generator extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
